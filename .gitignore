@@ -12,3 +12,5 @@ MANIFEST.MF
 RemoteSystemsTempFiles
 bin
 mongo.log.*
+journal
+diagnostic.data
